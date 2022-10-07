@@ -35,10 +35,10 @@ Copiar el siguiente código dentro de un archivo, luego guardarlo con el nombre:
 . A = 9;  
 . B = 7;  
 . resultado = A + B;  
-. alert (`La suma de A+B es: ${resultado} ` );  
-. alert (`La diferencia de A-B es: ${A-B} ` );  
-. alert (`La multiplicación de AxB es: ${A*B} ` );  
-. alert (`La división de A/B es: ${resultado=A/B} ` );  
+. alert ("La suma de A+B es: ${resultado} " );  
+. alert ("La diferencia de A-B es: ${A-B} " );  
+. alert ("La multiplicación de AxB es: ${A*B} " );  
+. alert ("La división de A/B es: ${resultado=A/B} " );  
 . </script>  
 . </body>  
 . </html>  
@@ -55,8 +55,8 @@ Copiar el siguiente código dentro de un archivo, luego guardarlo con el nombre:
 . let num2=0;  
 . num1 = num1 + 3;  
 . num2 = num2 + 7;  
-. alert (`El primer numero ahora es ${num1} `);  
-. alert (`El segundo numero ahora es ${num2} ` );  
+. alert ("El primer numero ahora es ${num1} ");  
+. alert ("El segundo numero ahora es ${num2} " );  
 . </script>  
 . </body>  
 . </html>  
@@ -85,7 +85,7 @@ Copiar el siguiente código dentro de un archivo, luego guardarlo con el nombre:
 Ejercicio5.html’. Ejecuta el programa en el navegador.
 Obs: El siguiente código tiene un error, para corregirlo se debe depurar el código en el
 navegador.
-Depurar con chrome: [https://developer.chrome.com/docs/devtools/javascript/](https://developer.chrome.com/docs/devtools/javascript/)
+Depurar con chrome: [Depurador de Chrome](https://developer.chrome.com/docs/devtools/javascript/)
 
 . <!DOCTYPE html>  
 . <html><body>  
