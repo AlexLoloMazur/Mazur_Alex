@@ -3,8 +3,7 @@
 #### Ejercicio 1:
 Agregar una foto en el perfil de la cuenta de GitHub.  
 Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu
-ordenador. Ver: [https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-
-a-new-ssh-key-to-your-github-account](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+ordenador. Ver: [Añadir clave SSH](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 #### Ejercicio 2:
 a- Crear un repositorio privado en github.com llamado “repo01”.  
 b- Desde la interfaz web crear un archivo README.md que contenga el autor y
