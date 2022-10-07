@@ -1,5 +1,3 @@
-# Mazur_Alex
-Repo publico Programacion Web Full Stack Silicon
 # Curso de programacion full stack
 ## Comisión B
 ### Silicon Misiones - https://siliconmisiones.gob.ar/
