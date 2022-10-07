@@ -1,0 +1,15 @@
+<html>
+<body>
+<script type="text/javascript">
+const A = "Hola";
+let B = " mundo!";
+document.write("Constante A contiene " + A );
+//baja una linea el texto mostrado
+document.write("</br>");
+document.write("Variable B contiene " + B );
+document.write("</br>");
+document.write(A + B );
+</script>
+<p>El signo '+' sirve para concatenar cadenas de texto</p>
+</body>
+</html>
