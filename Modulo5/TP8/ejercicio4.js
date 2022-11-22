@@ -1,4 +1,12 @@
-// OBTENER NOMBRES
+/* OBTENER NOMBRES
+Ejercicio 4
+Partiendo del programa “Obtener nombres”, crear una función llamada getNombre que reciba el
+arreglo de las personas y busque todas las personas de la localidad Posadas. Si encuentra debe
+imprimir el nombre y el apellido de la persona.
+Llamar a la función getNombre(persona);
+Guardar el programa en ejercicio4.js*/
+
+
 const fs = require("fs");
 const rawdata = fs.readFileSync("./personas.json", "utf8");
 var persona = JSON.parse(rawdata);
