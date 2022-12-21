@@ -1,0 +1,18 @@
+## Investigar y dar una definición con sus palabras los siguientes términos:  
+
+
+### REST
+Es una arquitectura de software para sistemas hipermedia. describe cualquier relacion entre sistemas en el que se utilice HTTP para obtener datos.
+es un sistema que tiene bien definido su diseño clave: por un lado, en el que cada mensaje HTTP contiene dentro de si mismo toda la informacion necesaria para ser comprendido por la red.
+tiene las operaciones intrinsecas bien definidas y diferenciadas de otros sistemas, en los que sus metodos mas importantes son GET, POST, PUT y DELETE.
+ademas de eso tiene una sintaxis universal definida y fija.
+
+### API
+es un software que permite a dos sistemas comunicarse entre si para la obtencion de datos de uno de ellos hacia el otro.
+
+### Endpoint
+Son las URL de una API o de un backend que responden a una peticion. Son los que responden para que se "cargue" la informacion que hace que un sitio tenga sentido para un visitante.
+A diferencia de los entrypoints, no estan pensados para interactuar con el usuario, sino que solo muestran la informacion cargada dentro de ellos.
+
+### Encabezados (headers)
+Es la primera parte que suele ver un usuario en una direccion web. puede contener las primeras ayudas introductiorias y de navegacion del sitio.
